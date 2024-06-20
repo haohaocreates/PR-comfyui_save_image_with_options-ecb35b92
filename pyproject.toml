@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-saveimagewithoptions"
+description = "Nodes:SaveImageWithOptions. This Save Image node allows you to save the image with the checkpoint name as a prefix."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/lordgasmic/ComfyUI-Wildcards"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "lordgasmic"
+DisplayName = "ComfyUI-SaveImageWithOptions"
+Icon = ""
