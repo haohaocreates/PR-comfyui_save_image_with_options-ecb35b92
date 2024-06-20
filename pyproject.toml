@@ -5,7 +5,7 @@ version = "1.0.0"
 license = "LICENSE"
 
 [project.urls]
-Repository = "https://github.com/lordgasmic/ComfyUI-Wildcards"
+Repository = "https://github.com/lordgasmic/comfyui_comfyui_save_image_with_options"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
